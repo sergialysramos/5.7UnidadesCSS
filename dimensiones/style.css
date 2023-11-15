@@ -1,0 +1,40 @@
+#dim1 {
+    width: 500px;
+    height: 300px;
+    border: solid;
+}
+
+img {
+    width: 30%;
+}
+
+header {
+    height: 80px;
+    border: solid;
+}
+
+#dim4 {
+    width: 200px;
+    border: solid;
+}
+
+#cuadrado {
+    width: 50%;
+    border: solid;
+}
+
+#dim5 {
+    display: flex;
+    border: solid;
+}
+
+#uno {
+    width: 200px;
+    border: solid;
+}
+
+#dos,
+#tres {
+    flex: 1;
+    border: solid;
+}

@@ -1,0 +1,43 @@
+#em1 {
+    font-size: 16px;
+}
+
+#parrafo1 {
+    font-size: 1.5em;
+}
+
+#parrafo2 {
+    font-size: 1.2em;
+}
+
+#parrafo3 {
+    font-size: 0.8em;
+}
+
+html {
+ font-size: 16px;
+}
+
+#rem1 {
+    font-size: 20rem;
+}
+
+#rem2 {
+    font-size: 15rem;
+}
+
+#rem3 {
+    font-size: 10rem;
+}
+
+#lista1 {
+padding: 0.5em;
+}
+
+#lista2 {
+padding: 1em;
+}
+
+#lista3 {
+padding: 1.5em;
+}

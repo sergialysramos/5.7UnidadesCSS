@@ -1,0 +1,42 @@
+#col1 {
+    background-color: deepskyblue;
+}
+
+#col2,
+#col3,
+#col4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#div1 {
+    background-color: #732509;
+}
+
+#div2 {
+    background-color: #446713;
+}
+
+#div3 {
+    background-color: #223168;
+}
+
+#azul {
+    background-color: rgb(0, 251, 255);
+}
+
+#rojo {
+    background-color: rgba(255, 0, 195, 0.339);
+}
+
+#verde {
+    background-color: rgb(17, 128, 0);
+}
+
+#hsl1 {
+    background-color: hsl(67, 6%, 55%);
+}
+
+#hsl2 {
+    background-color: hsl(284, 88%, 54%);
+}
